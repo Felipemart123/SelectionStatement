@@ -1,0 +1,15 @@
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/bin/Debug/net6.0/SelectionStatements
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/bin/Debug/net6.0/SelectionStatements.deps.json
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/bin/Debug/net6.0/SelectionStatements.runtimeconfig.json
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/bin/Debug/net6.0/SelectionStatements.dll
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/bin/Debug/net6.0/SelectionStatements.pdb
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/obj/Debug/net6.0/SelectionStatements.csproj.AssemblyReference.cache
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/obj/Debug/net6.0/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/obj/Debug/net6.0/SelectionStatements.AssemblyInfoInputs.cache
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/obj/Debug/net6.0/SelectionStatements.AssemblyInfo.cs
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/obj/Debug/net6.0/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/obj/Debug/net6.0/SelectionStatements.dll
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/obj/Debug/net6.0/refint/SelectionStatements.dll
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/obj/Debug/net6.0/SelectionStatements.pdb
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/obj/Debug/net6.0/SelectionStatements.genruntimeconfig.cache
+/Users/guillermomartinez/repos/SelectionStatements/SelectionStatements/obj/Debug/net6.0/ref/SelectionStatements.dll
